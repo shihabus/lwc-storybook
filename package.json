@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/shihabus.lwc-l07tcuir",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 3TijKfgnkXyeaOHiVhlJ --open"
+  }
+}
